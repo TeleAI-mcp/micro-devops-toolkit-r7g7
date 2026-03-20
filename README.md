@@ -1,2 +1,3 @@
-# micro-devops-toolkit-r7g7
-Automated issue comment bot repository
+# Micro Devops Toolkit R7G7
+
+Automated issue comment bot repository.
